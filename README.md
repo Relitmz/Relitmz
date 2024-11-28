@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jacobo Migoya Zaragoza</h1>
 <h3 align="center">Industrial Engineering student and self-taught programmer</h3>
+<h3 align="center">Python and I have a try-and-except relationship, but it always works out</h3>
 
 - 🔭 I’m currently studying [Industrial Engineering in ICAI](https://www.comillas.edu/icai/)
 
