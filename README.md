@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine learning in PyTorch with stable-baselines3**
 
-- 👯 I’m looking to collaborate on **Fun projects with Python**
+- 👯 I’m looking to collaborate on **Cool projects with Python**
 
 - 🤝 I’m looking for **an internship to grow professionally and bring value to the team**
 
